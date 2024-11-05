@@ -10,7 +10,8 @@
 <p align="center">
     🫣&nbsp<a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large"><b>Hugging Face</b></a>&nbsp&nbsp |  &nbsp&nbsp🖥️&nbsp&nbsp<a href="https://llm.hunyuan.tencent.com/" style="color: red;"><b>official website</b></a>&nbsp&nbsp｜&nbsp&nbsp🕖&nbsp&nbsp <a href="https://cloud.tencent.com/product/hunyuan" ><b>HunyuanAPI</b></a>
 </p><p align="center">
-    <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>Technical Report</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp</p>
+    <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>Technical Report</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp｜&nbsp&nbsp <a href="https://cloud.tencent.com/document/product/851/112032" style="color: red;"><b>Tencent Cloud TI</b></a>&nbsp&nbsp&nbsp</p>
+
 
 
 ## Model Introduction
@@ -42,7 +43,7 @@ By open-sourcing the Hunyuan-Large model and revealing related technical details
 &nbsp;
 
 ## Related News
-
+* 2024.11.5 TI Platform has integrated Hunyuan-Large model already, you can easily train and deploy it in just a few steps. Visit Chat with Hunyuan-Large to experience real-time conversations with the model, and explore Hunyuan-Large Best Practice on TI to create your own customized Hunyuan-Large model. 
 * 2024.11.5 We have open-sourced **Hunyuan-A52B-Pretrain**, **Hunyuan-A52B-Instruct**, and **Hunyuan-A52B-Instruct-FP8** on Hugging Face. We also released a technical report and a training and inference operations manual, providing detailed information on the model's capabilities and the procedures for training and inference.
 
 
@@ -529,7 +530,9 @@ You can experience our Hunyuan-Large model on Tencent Cloud. For details, please
 
 The Hunyuan-Large web demo is now open. Visit https://huggingface.co/spaces/tencent/Hunyuan-Large to easily experience our model.
 
-<br>
+## Training/Inference on TI
+Tencent Cloud's TI Platform is a comprehensive machine learning platform tailored for AI engineers. With the Hunyuan-Large model already integrated, you can easily train and deploy it in just a few steps. Visit Chat with Hunyuan-Large to experience real-time conversations with the model, and explore Hunyuan-Large Best Practice on TI to create your own customized Hunyuan-Large model. 
+
 
 ## Citation
 If you find our work helpful, feel free to give us a cite.

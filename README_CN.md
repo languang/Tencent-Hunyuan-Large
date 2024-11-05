@@ -10,7 +10,7 @@
 <p align="center">
     🫣&nbsp<a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large"><b>Hugging Face</b></a>&nbsp&nbsp |  &nbsp&nbsp🖥️&nbsp&nbsp<a href="https://llm.hunyuan.tencent.com/" style="color: red;"><b>官网</b></a>&nbsp&nbsp｜&nbsp&nbsp🕖&nbsp&nbsp <a href="https://cloud.tencent.com/product/hunyuan" ><b>混元API</b></a>
 </p><p align="center">
-    <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>技术报告</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp</p>
+    <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>技术报告</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp｜&nbsp&nbsp <a href="https://cloud.tencent.com/document/product/851/112032" style="color: red;"><b>Tencent Cloud TI</b></a>&nbsp&nbsp&nbsp</p>
 
 
 
@@ -41,7 +41,7 @@
 &nbsp;
 
 ## 新闻
-
+* 2024.11.5 TI平台已经集成了Hunyuan-Large模型，您只需几步即可轻松进行训练和部署。访问'Chat with Hunyuan-Large'模块与模型的实时对话，并在TI上探索'Hunyuan-Large Best Practice on TI'并创建自己的定制化Hunyuan-Large。
 * 2024.11.5 我们在Hugging Face开源了**Hunyuan-A52B-Pretrain** 、 **Hunyuan-A52B-Instruct** 和**Hunyuan-A52B-Instruct-FP8**。并发布了技术报告和训练推理操作手册，详细介绍了模型能力和训练与推理的操作。
 <br>
 ## Benchmark评估榜单 
@@ -499,6 +499,9 @@ HunYuan-Large模型中采用的tokenizer平衡了压缩率和效果两个因素�
 Hunyuan-Large现已开放网页demo。访问 https://huggingface.co/spaces/tencent/Hunyuan-Large 即可简单体验我们的模型。
 
 <br>
+
+## 使用TI训练/推理 
+腾讯云的TI平台是专门为AI工程师设计的全面的机器学习平台。通过集成Hunyuan-Large模型，您只需几步即可轻松进行训练和部署。访问'Chat with Hunyuan-Large'模块，体验与模型的实时对话，并在TI上探索'Hunyuan-Large Best Practice'，创建自己的定制Hunyuan-Large模型。
 
 ## 引用
 如果你觉得我们的工作对你有帮助，欢迎引用我们！
