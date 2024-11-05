@@ -43,7 +43,7 @@ By open-sourcing the Hunyuan-Large model and revealing related technical details
 &nbsp;
 
 ## Related News
-* 2024.11.5 TI Platform has integrated Hunyuan-Large model already, you can easily train and deploy it in just a few steps. Visit Chat with Hunyuan-Large to experience real-time conversations with the model, and explore Hunyuan-Large Best Practice on TI to create your own customized Hunyuan-Large model. 
+* 2024.11.5 [TI Platform](https://cloud.tencent.com/product/ti) has integrated Hunyuan-Large model already, you can easily train and deploy it in just a few steps. Visit [Chat with Hunyuan-Large](https://console.cloud.tencent.com/tione/v2/aimarket/detail/hunyuan_series?PublicAlgoGroupId=hunyuan-large-chat&detailTab=demo) to experience real-time conversations with the model, and explore [Hunyuan-Large Best Practice on TI](https://cloud.tencent.com/document/product/851/112032) to create your own customized Hunyuan-Large model. 
 * 2024.11.5 We have open-sourced **Hunyuan-A52B-Pretrain**, **Hunyuan-A52B-Instruct**, and **Hunyuan-A52B-Instruct-FP8** on Hugging Face. We also released a technical report and a training and inference operations manual, providing detailed information on the model's capabilities and the procedures for training and inference.
 
 
@@ -531,7 +531,7 @@ You can experience our Hunyuan-Large model on Tencent Cloud. For details, please
 The Hunyuan-Large web demo is now open. Visit https://huggingface.co/spaces/tencent/Hunyuan-Large to easily experience our model.
 
 ## Training/Inference on TI
-Tencent Cloud's TI Platform is a comprehensive machine learning platform tailored for AI engineers. With the Hunyuan-Large model already integrated, you can easily train and deploy it in just a few steps. Visit Chat with Hunyuan-Large to experience real-time conversations with the model, and explore Hunyuan-Large Best Practice on TI to create your own customized Hunyuan-Large model. 
+Tencent Cloud's [TI Platform](https://cloud.tencent.com/product/ti) is a comprehensive machine learning platform tailored for AI engineers. With the Hunyuan-Large model already integrated, you can easily train and deploy it in just a few steps. Visit [Chat with Hunyuan-Large](https://console.cloud.tencent.com/tione/v2/aimarket/detail/hunyuan_series?PublicAlgoGroupId=hunyuan-large-chat&detailTab=demo) to experience real-time conversations with the model, and explore [Hunyuan-Large Best Practice on TI](https://cloud.tencent.com/document/product/851/112032) to create your own customized Hunyuan-Large model. 
 
 
 ## Citation
