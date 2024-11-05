@@ -115,9 +115,9 @@
  {'train_runtime': 20515.9091, 'train_samples_per_second': 0.624, 'train_steps_per_second': 0.005, 'train_loss': 0.31072488425299527, 'epoch': 2.78}
 ```
 
-## 部署部份
+## 部署部分
 - 推理环境配置可参考 [推理README.md](../README.md)
 
-## 推理部份
+## 推理部分
 - 推理脚本可参考 [eval_demo_vllm.py](eval_demo_vllm.py)
 - 打分脚本可参考 [compute_acc.py](compute_acc.py)
